@@ -1,0 +1,5 @@
+# course data: do not publish
+data/telecom/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
